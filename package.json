@@ -1,5 +1,5 @@
 {
-  "name": "pstat",
+  "name": "pstatus",
   "version": "0.0.1",
   "description": "Gets the status for the currently running process as returned by the ps unix utility",
   "preferGlobal": false,
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:gabesoft/pstat.git"
+    "url": "git@github.com:gabesoft/pstatus.git"
   },
   "author": {
     "name": "Gabriel Adomnicai",

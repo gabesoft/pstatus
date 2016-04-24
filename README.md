@@ -1,3 +1,3 @@
-#pstat#
+#pstatus#
 
-*Process statistics*
+*Process status*
