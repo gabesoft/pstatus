@@ -1,13 +1,15 @@
 {
   "name": "pstat",
   "version": "0.0.1",
-  "description": "Process statistics",
+  "description": "Gets the status for the currently running process as returned by the ps unix utility",
   "preferGlobal": false,
   "main": "./lib/index.js",
   "bin": {},
   "dependencies": {},
   "devDependencies": {
-    "mocha": "~1.9.0"
+    "eslint": "^2.8.0",
+    "eslint-config-airbnb": "^8.0.0",
+    "eslint-config-import": "^0.13.0"
   },
   "repository": {
     "type": "git",
