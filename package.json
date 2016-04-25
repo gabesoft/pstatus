@@ -1,6 +1,6 @@
 {
   "name": "pstatus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gets the status for the currently running process as returned by the ps unix utility",
   "preferGlobal": false,
   "main": "./lib/index.js",
