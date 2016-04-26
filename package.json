@@ -10,14 +10,14 @@
   },
   "peerDependencies": {
     "boom": "^3.1.2",
-    "hoek": "^3.0.4",
+    "hoek": "^4.0.0",
     "joi": "^8.0.5"
   },
   "devDependencies": {
     "eslint": "^2.8.0",
     "eslint-config-airbnb": "^8.0.0",
     "eslint-config-import": "^0.13.0",
-    "eslint-plugin-import": "^1.5.0"
+    "eslint-plugin-import": "^1.6.0"
   },
   "repository": {
     "type": "git",
